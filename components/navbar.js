@@ -13,7 +13,7 @@ import PermMediaIcon from "@material-ui/icons/PermMedia";
 import EmailIcon from "@material-ui/icons/Email";
 import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";
-// import { Settings } from "@material-ui/icons";
+import { Settings } from "@material-ui/icons";
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
